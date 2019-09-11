@@ -1,0 +1,11 @@
+
+
+
+path=https://neobux.com
+login=//span[contains(text(),'Login')]
+username=//*[@type='text']
+usernamevalue=Gowtham0786
+
+password=Gowt@9361
+passwd=(//*[@type='password'])[2]
+send=(//span[contains(text(),'send')])[1]
